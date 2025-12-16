@@ -1,10 +1,10 @@
-📊 HR Attrition Analysis Dashboard – Power BI Project
-📌 Overview
+# 📊 HR Attrition Analysis Dashboard – Power BI Project
+### 📌 Overview
 
 This project presents a complete Power BI–based HR Attrition Analysis using an employee dataset to understand workforce turnover patterns. The analysis focuses on employee distribution, attrition trends, and demographic insights across departments, job roles, gender, and age groups.
 The objective of this project is to help HR teams identify high-risk attrition areas and support data-driven retention strategies.
 
-🧹 Data Cleaning & Preparation (Power Query)
+###🧹 Data Cleaning & Preparation (Power Query)
 
 Before analysis, the dataset was cleaned and transformed to ensure accuracy and consistency:
 
@@ -20,7 +20,7 @@ Prepared attrition indicators for KPI calculations
 
 These steps ensured reliable reporting and meaningful insights.
 
-🧮 DAX Measures Used
+### 🧮 DAX Measures Used
 
 Several DAX measures were created to support KPIs and visuals, including:
 
@@ -38,11 +38,11 @@ Gender-wise Attrition
 
 These measures enabled dynamic filtering and interactive analysis.
 
-📈 Dashboard Features
+### 📈 Dashboard Features
 
 The Power BI dashboard includes:
 
-⭐ KPI Cards
+### ⭐ KPI Cards
 
 Total Employees
 
@@ -50,7 +50,7 @@ Active Employees
 
 Attrition Count
 
-📊 Visualizations
+### 📊 Visualizations
 
 Employees by Department
 
@@ -66,7 +66,7 @@ Overall Attrition vs Active Employees (Donut Chart)
 
 Interactive slicers allow filtering by department for focused analysis.
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Power BI Desktop
 
@@ -76,23 +76,8 @@ DAX (Data Analysis Expressions)
 
 HR Attrition Dataset (Excel/CSV)
 
-🎯 Project Outcomes
 
-This project demonstrates skills in:
-
-HR Analytics
-
-Data cleaning & modeling
-
-DAX calculations
-
-Dashboard design
-
-Business insight generation
-
-The final dashboard highlights key attrition drivers and workforce stability indicators.
-
-📢 Impact & Key Insights (Story of the Dashboard)
+### 📢 Impact & Key Insights (Story of the Dashboard)
 The Finance department shows zero attrition, indicating strong job stability and effective retention practices that can be adopted across other departments.
 
 Attrition in HR is observed only among female employees, suggesting the need for improved work-life balance policies and targeted support programs.
@@ -109,12 +94,12 @@ The Sales department records the highest attrition, likely due to performance pr
 
 No attrition is seen in the 35–40 and 40–45 age groups, indicating strong retention among experienced employees and organizational stability.
 
-✔ Overall Story of the Data
+### ✔ Overall Story of the Data
 
 The data tells a clear story: attrition is concentrated among younger employees, high-pressure roles, and male-dominated departments. Meanwhile, experienced employees and structured departments demonstrate strong retention.
 The insights highlight opportunities to improve retention through targeted career development, role-specific engagement, and demographic-aware HR policies.
 
-📂 Files Included
+### 📂 Files Included
 
 Power BI report (.pbix)
 
@@ -124,6 +109,6 @@ README documentation
 
 Dashboard screenshots
 
-✔ Conclusion
+### ✔ Conclusion
 
 The HR Attrition Analysis dashboard demonstrates how HR data can be transformed into actionable insights using Power BI. The project enables organizations to identify attrition risks, strengthen retention strategies, and build a more stable workforce through data-driven decision-making.
